@@ -22,7 +22,7 @@ parts:
 
   qrshare:
     source: https://github.com/faveoled/qrshare.git
-    source-commit: '8674a230758a2982e63daedc6b16e288ad93bafc'
+    source-commit: '8440445d5563d7c032404782a77ee7709a0c474c'
     plugin: flutter
     flutter-target: lib/main.dart
     build-packages:
